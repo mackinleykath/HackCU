@@ -1,0 +1,93 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags girl_white_sad
+face r-eye-corner2-up-down -0.306000
+face nose-scale-vert-incr-decr -0.370000
+face nose-trans-depth-forward-backward -0.146000
+face l-ear-size-big-small 0.048000
+face neck-trans-depth-forward-backward -0.016000
+face r-ear-wing-out-in -0.048000
+face nose-width2-min-max 0.162000
+face mouth-angles-up-down 1.000000
+face l-ear-wing-out-in -0.112000
+face neck-trans-vert-down-up 0.162000
+face chin-bones-in-out -1.000000
+face mouth-trans-forward-backward -0.112000
+face mouth-upperlip-height-min-max -0.274000
+face eyebrows-trans-depth-less-more 0.194000
+face nose-scale-depth-incr-decr -0.032000
+face r-eye-corner1-up-down 0.516000
+face r-ear-lobe-min-max 0.178000
+face nose-volume-potato-point 0.096000
+face nose-scale-horiz-incr-decr 0.354000
+face eyebrows-angle-up-down -0.580000
+face l-eye-height1-min-max -1.000000
+face nose-trans-horiz-in-out 0.112000
+face neck-scale-horiz-less-more -0.096000
+face eyebrows-trans-vert-less-more -0.306000
+face r-eye-size-small-big 0.112000
+face l-ear-height-min-max -0.178000
+face l-ear-lobe-min-max 0.194000
+face head-scale-vert-more-less 0.032000
+face head-age-less-more 0.388000
+face l-ear-flap-out-in 0.162000
+face neck-trans-horiz-in-out -0.032000
+face l-eye-corner2-up-down -0.354000
+face chin-prognathism-less-more 0.354000
+face nose-curve-convex-concave -0.452000
+face head-scale-horiz-less-more -0.112000
+face r-eye-height1-min-max -1.000000
+face nose-flaring-decr-incr -0.112000
+face mouth-scale-vert-incr-decr 0.162000
+face nose-compression-compress-uncompress 0.484000
+face mouth-scale-depth-incr-decr 0.112000
+face r-ear-flap-out-in 0.080000
+face l-eye-height2-min-max -0.096000
+face head-angle-in-out 0.130000
+face l-eye-corner1-up-down 0.564000
+face nose-point-width-less-more -0.452000
+face mouth-scale-horiz-incr-decr -0.436000
+face nose-nostril-width-min-max 0.194000
+face l-eye-size-small-big 0.146000
+face l-eye-push1-in-out 0.016000
+face nose-septumangle-decr-incr 0.048000
+face r-eye-height2-min-max -0.064000
+face mouth-lowerlip-middle-up-down -0.162000
+face nose-height-min-max -0.178000
+face chin-height-min-max -0.130000
+face l-ear-trans-vert-down-up 0.162000
+face chin-width-min-max -1.000000
+face r-ear-height-min-max -0.194000
+face l-eye-height3-min-max 0.258000
+face nose-greek-moregreek-lessgreek 0.016000
+face nose-trans-vert-up-down 0.194000
+face nose-hump-morehump-lesshump -0.210000
+face nose-width3-min-max -0.048000
+face r-eye-height3-min-max 0.194000
+face r-ear-trans-vert-down-up 0.162000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+hair fhair01 c4808d0d-bbbc-4e62-82a1-8610b06d0e05
+eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes short01 f859bbbd-3b32-4a52-aa91-813ff2f0d1af
+clothes Tshirt01 ea986be3-a9df-48e9-9f73-80a02ec1db61
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothesHideFaces True
+gendered BreastFirmness 0.685000
+gendered BreastSize 0.540000
+gendered breast-volume-vert-up-down -0.048000
+macro Weight 0.395000
+macro Gender 0.000000
+macro Age 0.169000
+macro Height 0.492000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.839000
+macro BodyProportions 0.573000
+background enabled False
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material fhair01 c4808d0d-bbbc-4e62-82a1-8610b06d0e05 hair/fhair01/materials/fhair01_black.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
+subdivide False
